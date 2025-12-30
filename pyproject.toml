@@ -1,0 +1,14 @@
+[project]
+name = "college-football-stats"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cfbd>=5.13.2",
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.5.1",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+]
